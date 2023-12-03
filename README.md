@@ -143,7 +143,6 @@ else:
 * Jagpreet Singh
 * Kiran Patil
 * Vishnu
-* Rony
 * Hardik Rathod
 * Rubel Binu
 * Ailing Wang
@@ -160,6 +159,5 @@ else:
 * Abhishek Malik
 * Pranshu  Mahajan
 * Kiranmai Bogireddy
-* Karan Patel
-* Jay Thakkar
-* Tanishqa Sharma 
+* Tanishqa Sharma
+* Asma and Asif
